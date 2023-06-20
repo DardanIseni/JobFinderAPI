@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0d606a96_002Dfc90_002D4f87_002D828b_002D5ae6a660b8c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D0B9D92-9A4E-4FAB-824D-C3807AB4448D::net7.0::Tests.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D0B9D92-9A4E-4FAB-824D-C3807AB4448D::net7.0::Tests.JobControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D0B9D92-9A4E-4FAB-824D-C3807AB4448D::net7.0::Tests.WorkServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d169957_002Dda29_002D4c06_002D8772_002Dd8271937df51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WorkServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D0B9D92-9A4E-4FAB-824D-C3807AB4448D::net7.0::Tests.WorkServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
